@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="10px" height="14px" viewBox="0 0 10 14" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 63.1 (92452) - https://sketch.com -->
+    <title>icon-pin</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Web" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Job-Board---Post" transform="translate(-144.000000, -410.000000)" fill="#3F327A">
+            <g id="Group-3" transform="translate(130.000000, 401.000000)">
+                <path d="M21,14 C21,15.1041782 20.104568,16 19,16 C17.8952748,16 17,15.1041782 17,14 C17,12.8955059 17.895432,12 19,12 C20.1048038,11.999921 21,12.8954269 21,14 M24,14.0909365 C24,11.2792357 21.7615622,9 19,9 C16.2386344,9 14,11.2792357 14,14.0909365 C14,15.327156 14.4332016,16.460642 15.1530751,17.3423205 L19.0043242,23 L22.9118855,17.2597919 C23.052224,17.0809633 23.1807693,16.8924845 23.2967353,16.6943557 L23.3362423,16.6366561 L23.3297561,16.6366561 C23.7552922,15.8873651 24,15.018654 24,14.0909365" id="icon-pin"></path>
+            </g>
+        </g>
+    </g>
+</svg>
